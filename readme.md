@@ -1,5 +1,4 @@
-
-# sklearn-porter
+# Fork of the sklearn-porter package updated to support scikit-learn >= 1.0.0
 
 [![GitHub license](https://img.shields.io/pypi/l/sklearn-porter.svg)](https://raw.githubusercontent.com/nok/sklearn-porter/master/license.txt)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-ask%20questions-blue.svg)](https://stackoverflow.com/questions/tagged/sklearn-porter)
